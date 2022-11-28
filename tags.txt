@@ -1,0 +1,4 @@
+&nbsp; - use apply space 
+<br/> - use to take new line
+<b> </b> - get text in bold 
+<u> </u> - get text underline 
