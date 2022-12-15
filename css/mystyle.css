@@ -1,0 +1,21 @@
+*
+{
+     background-color: black;
+     color:white;
+}
+p
+{
+     font-size: 23px;
+     margin-left:20px;
+     margin-right:20px;
+}
+h1
+{
+     /* margin: 50px; */
+     margin-top: 20px;
+     margin-left:20px;
+}
+div
+{
+     padding: 50px;
+}

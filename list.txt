@@ -1,0 +1,20 @@
+table - use create table 
+tr - used for table row 
+td - used for table cell/data
+img - used to load image 
+p - use to give paragraph
+h1-h6 - use to give header 
+font - use to change fonts 
+align - left,center,right
+width - 50% always use percentage 
+height - 50% always use percentage
+ul - unordered list
+ol - oredred list 
+li - used for list
+div - group object 
+a - used for links
+br- for new line 
+hr - for horizontal line
+href - used to give link 
+http://picsum.photos/150/150
+unsplash 
